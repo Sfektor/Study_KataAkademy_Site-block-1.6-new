@@ -1039,6 +1039,9 @@ th, td {
 .hold-menu::before {
   z-index: 2; }
 
+.hold-popup {
+  z-index: 5; }
+
 @media (min-width: 1366px) {
   .header {
     display: none; } }
